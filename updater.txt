@@ -1,0 +1,21 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.1"
+		}
+		
+		"Notes"	"More info @ https://github.com/SgtGremulock/TF2Jail-RebelAmmo. Changes in 1.1:"
+		"Notes"	"Added updater support."
+		"Notes"	"Fixed the plugin not detecting other ammo packs being picked up."
+	}
+	
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/TF2Jail_RebelAmmo.smx"
+		
+		"Source"	"Path_SM/scripting/TF2Jail_RebelAmmo.sp"
+	}
+}
